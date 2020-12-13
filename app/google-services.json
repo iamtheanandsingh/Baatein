@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "806420327334",
+    "firebase_url": "https://bateinkaro.firebaseio.com",
+    "project_id": "bateinkaro",
+    "storage_bucket": "bateinkaro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806420327334:android:e58d712aa0c9e7d2fdbd67",
+        "android_client_info": {
+          "package_name": "com.nv.baatein"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806420327334-5e0bh5a9jmbu55g8b4umlkqp52s64so9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1AkhGdZDlnmYoU8N71gfIkvc_dlA_bac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806420327334-5e0bh5a9jmbu55g8b4umlkqp52s64so9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
